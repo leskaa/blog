@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Async Apprentice`,
     author: `Alex Leska`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog about internships in the tech industry.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       github: `leskaa`,
