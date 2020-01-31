@@ -33,7 +33,23 @@ complex projects easier. [#typescript](https://twitter.com/hashtag/typescript?sr
 ## GitHub Student Developer Pack
 
 The GitHub Student Developer Pack is a great resource that provides cloud
-hosting credits to high school and university students.
+hosting credits to high school and university students. You can get domain
+registration for your side projects. A few cloud providers also give out
+credits for students to use paid hosting services. Here are some notable
+inclusions in the pack.
+
+- name.com
+  - 1 year domain name on a selection of 25 TLDs
+- Namecheap
+  - 1 year domain name registration on my-name.me
+- AWS Educate
+  - \$100 of AWS credits
+- DigitalOcean
+  - \$50 of cloud hosting credits
+- Microsoft Azure
+  - \$100 of Azure credits
+- Heroku
+  - Free Hobby Dyno for 2 years
 
 ## Serverless Functions
 

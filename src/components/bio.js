@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>. A Software Engineer Intern from Minneapolis who is interested in GraphQL.
+        Written by <strong>{author}</strong>. A Software Engineer Intern from Minneapolis who is obsessed with GraphQL.
         {` `}
         <a href={`https://github.com/${social.github}`}>
           You should follow him on GitHub
